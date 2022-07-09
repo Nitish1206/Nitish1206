@@ -98,7 +98,7 @@ and applying appropriate mathematical equations.
 <!-- [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent) -->
 </p>
 
-| <a href="https://github.com/Nitish1206/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nitish's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Nitish1206/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitish1206&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nitish's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish1206&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- 
@@ -109,12 +109,4 @@ and applying appropriate mathematical equations.
 [![Nitish's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
-<!--
-**themlphdstudent/themlphdstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-
-<!--
 **Nitish1206/Nitish1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
