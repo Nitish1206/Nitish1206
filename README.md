@@ -38,9 +38,9 @@ and applying appropriate mathematical equations.
 - **October 2021**: A paper is accepted for publication by the Annals of Data Science Journal (Springer).
 - **October 2021**: Delivered a guest lecture on "Deploying Maching Learning Model" at IT, CSPIT, Charusat University, Changa.
 - **September 2021**: Completed Coursera course by Deeplearning.ai on AI for Everyone taught by Andrew Ng. [[Certificate]](http://coursera.org/verify/96KFJPPTU3J7) -->
-
+<!-- 
 **Service to research comunity**:
-- PC Member, at The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2020 ([ECML/PKDD 2020](https://ecmlpkdd2020.net/organisation/programcommittee/)), Ghent [2020].
+- PC Member, at The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2020 ([ECML/PKDD 2020](https://ecmlpkdd2020.net/organisation/programcommittee/)), Ghent [2020]. -->
 
 ## Skills:
 
