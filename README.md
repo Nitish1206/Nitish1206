@@ -1,5 +1,5 @@
 
-### Hi there, I'm [Nitish Jha] 👋, Github profile on repairing...........................
+### Hi there, I'm [Nitish Jha] 👋, Github profile under Maintenance...........................
 
 Focused on developing useful solutions to meet changing business and
 customer demands. Results-driven professional with good technical skills,
