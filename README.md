@@ -1,5 +1,5 @@
 
-### Hi there, I'm [Nitish Jha] 👋, Github profile under Maintenance...........................
+### Hi there, I'm [Nitish Jha] 👋
 
 Focused on developing useful solutions to meet changing business and
 customer demands. Results-driven professional with good technical skills,
@@ -14,9 +14,8 @@ and applying appropriate mathematical equations.
 - 👨🏽‍💻 Currently growing my skillset in [R]() and [Data Science]().
 
 
-- 🔭 I’m currently working on ... Data Analytics
-- 🌱 I’m currently learning ... R 
-- 🤔 I’m looking for help with ... Basics of R language
+- 🔭 I’m currently working on ... Chatbots
+- 🌱 I’m currently learning ... chatgpt/rasa
 - 💬 Ask me about ... Machine Learning Algorithm
 
 **My Reseach Interest**:
