@@ -48,5 +48,5 @@ and applying appropriate mathematical equations.
 ## Connect with me:
 
 
-| <a href="https://github.com/Nitish1206/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitish1206&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nitish's github stats" /></a> | <a> href="https://github.com/Nitish1206/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish1206&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="(https://www.linkedin.com/in/nitish-jha-44b130170)"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitish1206&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nitish's github stats" /></a>
 | ------------- | ------------- |
