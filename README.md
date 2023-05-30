@@ -47,6 +47,6 @@ and applying appropriate mathematical equations.
 
 ## Connect with me:
 
+- [Linkedln](https://www.linkedin.com/in/nitish-jha-44b130170)&nbsp;
 
-<a href="(https://www.linkedin.com/in/nitish-jha-44b130170)"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitish1206&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nitish's github stats" /></a>
 | ------------- | ------------- |
