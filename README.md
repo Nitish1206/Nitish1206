@@ -44,4 +44,8 @@ and applying appropriate mathematical equations.
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+## Connect with me:
 
+
+| <a href="https://github.com/Nitish1206/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitish1206&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nitish's github stats" /></a> | <a> href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish1206&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
