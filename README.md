@@ -43,6 +43,7 @@ Welcome to my GitHub repository! I'm an accomplished AI/ML Engineer with a diver
 
 ### Languages
 - Python
+- R
 - Shell Script
 
 ### ML/DL Frameworks
