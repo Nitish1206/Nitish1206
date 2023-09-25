@@ -49,23 +49,26 @@ Welcome to my GitHub repository! I'm an accomplished AI/ML Engineer with a diver
 ### ML/DL Frameworks
 - TensorFlow
 - scikit-learn
-- FastAPI
-- NumPy
 - Pandas
-- Plotly
 - OpenCV
 - GANs
 - Keras
+- pytorch
+
+### Web Frameworks
+- Django
+- Flask
 
 ### Databases
 - MySQL
 - PostgreSQL
+- MongoDB
 
 ### Tools and Technologies
 - Linux
 - Git
 
-### Tools and Technologies
+### Cloud Platforms
 - AWS - EC2
 - Digital Ocean
 
